@@ -35,7 +35,7 @@ wCam, hCam = 840, 680
 cap = cv2.VideoCapture(0)
 cap.set(3, wCam)
 cap.set(4, hCam)
-folderPath = "Vision\HandTracking\Volume" #Vision\HandTracking\Volume
+folderPath = "code\\Vision\\HandTracking\\Volume" #Vision\HandTracking\Volume, code\Vision\HandTracking\Volume
 myList = os.listdir(folderPath)
 print(myList)
 overlayList = []
