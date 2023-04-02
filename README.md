@@ -22,4 +22,11 @@ Different files is used in this project in conjunction with different and varied
 * both will be ideal with predominance of networking (routers, switches, cables, antenas, radio, waves, telecommunication, energy, DSP, etc)
 
 
-![PRODUCER](https://www.liveabout.com/thmb/5zsg1N4B3aMJyhx9MRwBaFm3WQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/producer-career-information-526057-edit-82c74a179d5c42f484197fac05f6b39d.jpg "Title")
+![PRODUCER](https://www.liveabout.com/thmb/5zsg1N4B3aMJyhx9MRwBaFm3WQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/producer-career-information-526057-edit-82c74a179d5c42f484197fac05f6b39d.jpg "Producer")
+
+![Music Producer](https://blog.internationalstudent.com/wp-content/uploads/2013/05/music-studio146760417-1024x808.jpg "music")
+
+
+
+
+
