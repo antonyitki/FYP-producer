@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "FYP_undergraduate"
+		},
+		{
+			"path": "FYPchina"
+		},
+		{
+			"path": "FYP_DL_china"
+		},
+		{
+			"path": "FYP_DL_china_moreHidenLayers"
+		},
+		{
+			"path": "FYP_DL_pianosonatas"
+		},
+		{
+			"path": "FYP_GatedRecurrentUnit_CHINA"
+		},
+		{
+			"path": "FYP_GatedRecurrentUnit_ERK"
+		}
+	],
+	"settings": {}
+}
